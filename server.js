@@ -12,6 +12,7 @@ const product = require("./routes/productRoutes")
 const app = express()
 
 app.use(cors())
+
 app.use('/api/v1/products', product)
 app.get('/', (req, res) => {
     res.send("Welcome To the Watch Store...")
