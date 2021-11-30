@@ -1,0 +1,98 @@
+[
+    {
+        "name": "apple watch-1",
+        "description": "A good Product",
+        "categoryId": 123,
+        "price": 300000,
+        "countInStock": 4,
+        "brand": "apple"
+    },
+    {
+        "name": "apple watch-1",
+        "description": "A good Product",
+        "categoryId": 123,
+        "price": 30000,
+        "countInStock": 20,
+        "brand": "apple"
+    },
+    {
+        "name": "apple watch-2",
+        "description": "A good Product",
+        "categoryId": 123,
+        "price": 50000,
+        "countInStock": 10,
+        "brand": "apple"
+    },
+    {
+        "name": "apple watch-3",
+        "description": "A good Product",
+        "categoryId": 123,
+        "price": 90000,
+        "countInStock": 1,
+        "brand": "apple"
+    },
+    {
+        "name": "titan watch-i",
+        "description": "A good titan Product",
+        "categoryId": 124,
+        "price": 190000,
+        "countInStock": 4,
+        "brand": "Titan"
+    },
+    {
+        "name": "titan watch-x",
+        "description": "A good titan Product",
+        "categoryId": 124,
+        "price": 180000,
+        "countInStock": 14,
+        "brand": "Titan"
+    },
+    {
+        "name": "titan watch-v",
+        "description": "A good titan Product",
+        "categoryId": 124,
+        "price": 120000,
+        "countInStock": 44,
+        "brand": "Titan"
+    },
+    {
+        "name": "titan watch-z",
+        "description": "A good titan Product",
+        "categoryId": 124,
+        "price": 110000,
+        "countInStock": 84,
+        "brand": "Titan"
+    },
+    {
+        "name": "g-Shock-98",
+        "description": "A good g-Shock Product",
+        "categoryId": 125,
+        "price": 9000,
+        "countInStock": 175,
+        "brand": "g-Shock"
+    },
+    {
+        "name": "g-Shock-7",
+        "description": "A good g-Shock Product",
+        "categoryId": 125,
+        "price": 14000,
+        "countInStock": 10,
+        "brand": "g-Shock"
+    },
+    {
+        "name": "g-Shock-IX",
+        "description": "A good g-Shock Product",
+        "categoryId": 125,
+        "price": 18000,
+        "countInStock": 8,
+        "brand": "g-Shock"
+    },
+    {
+        "name": "g-Shock-X",
+        "description": "A good g-Shock Product",
+        "categoryId": 125,
+        "price": 20000,
+        "countInStock": 4,
+        "brand": "g-Shock"
+    }
+]
