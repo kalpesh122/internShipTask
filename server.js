@@ -13,6 +13,9 @@ const app = express()
 
 app.use(cors())
 app.use('/api/v1/products', product)
+app.get('/', (req, res) => {
+    res.send("Welcome To the Watch Store...")
+})
 // app.use(errorHandler)
 
 const PORT = process.env.PORT || 5000
